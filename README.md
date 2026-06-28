@@ -51,14 +51,9 @@ I am a Computer Science student and Backend Developer specializing in building h
 
 ---
 
-### 📊 GitHub & Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Powder-03&show_icons=true&theme=radium&hide_border=true" alt="Rishabh's GitHub Stats" width="48%">
-  
-</p>
 
----
+
 
 ### 🏆 Achievements
 - **1st Place:** ROBOFESTINATE'24 Hackathon (AKGEC)
