@@ -59,7 +59,7 @@ I am a Backend Developer specializing in bridging the gap between complex infras
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Powder-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rishabh's GitHub Stats" width="48%">
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Powder-03&theme=tokyonight&hide_border=true&background=0D1117" alt="Rishabh's GitHub Streak" width="48%">
 </p>
 
